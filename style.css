@@ -48,7 +48,7 @@ section h2{
     0% 
     {
         transform: translateZ(2000px);
-        background: url(/images/banner\ me.png);
+        background: url(banner\ me.png);
         background-position: center;
         background-attachment: fixed;
         background-size: cover;
@@ -57,7 +57,7 @@ section h2{
     100% 
     {
         transform: translateZ(0px);
-        background: url(/images/banner\ me.png);
+        background: url(banner\ me.png);
         background-position: center;
         background-attachment: fixed;
         background-size: cover;
@@ -68,7 +68,7 @@ section h2{
 
 section.active .banner .blocks{
     animation: animateTwo 2s ease-in-out forwards;
-    background: url(/images/banner\ me.png);
+    background: url(banner\ me.png);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
@@ -80,7 +80,7 @@ section.active .banner .blocks{
     0% 
     {
         transform: translateZ(0px);
-        background: url(/images/banner\ me.png);
+        background: url(banner\ me.png);
         background-position: center;
         background-attachment: fixed;
         background-size: cover;
@@ -89,7 +89,7 @@ section.active .banner .blocks{
     100% 
     {
         transform: translateZ(2000px);
-        background: url(/images/banner\ me.png);
+        background: url(banner\ me.png);
         background-position: center;
         background-attachment: fixed;
         background-size: cover;
